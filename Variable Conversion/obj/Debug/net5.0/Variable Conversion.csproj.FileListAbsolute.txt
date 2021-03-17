@@ -1,0 +1,16 @@
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\obj\Debug\net5.0\Variable Conversion.csprojAssemblyReference.cache
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\obj\Debug\net5.0\Variable Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\obj\Debug\net5.0\Variable Conversion.AssemblyInfoInputs.cache
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\obj\Debug\net5.0\Variable Conversion.AssemblyInfo.cs
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\obj\Debug\net5.0\Variable Conversion.csproj.CoreCompileInputs.cache
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\bin\Debug\net5.0\Variable Conversion.exe
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\bin\Debug\net5.0\Variable Conversion.deps.json
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\bin\Debug\net5.0\Variable Conversion.runtimeconfig.json
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\bin\Debug\net5.0\Variable Conversion.runtimeconfig.dev.json
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\bin\Debug\net5.0\Variable Conversion.dll
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\bin\Debug\net5.0\ref\Variable Conversion.dll
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\bin\Debug\net5.0\Variable Conversion.pdb
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\obj\Debug\net5.0\Variable Conversion.dll
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\obj\Debug\net5.0\ref\Variable Conversion.dll
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\obj\Debug\net5.0\Variable Conversion.pdb
+D:\Important Documents\GitHub Codes\C#\Variable Conversion\obj\Debug\net5.0\Variable Conversion.genruntimeconfig.cache
